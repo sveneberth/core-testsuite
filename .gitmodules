@@ -1,8 +1,3 @@
-[submodule "appengine/server"]
-	path = appengine/server
-	url = https://github.com/viur-framework/server.git
-	branch = feature/optimized-relations-including-optional-oneShot-behavior
-[submodule "vi"]
-	path = vi
-	url = https://github.com/viur-framework/vi.git
-	branch = develop
+[submodule "viur/core"]
+	path = viur/core
+	url = git@github.com:viur-framework/viur-core.git
